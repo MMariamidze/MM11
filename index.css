@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    background: linear-gradient(90deg, rgba(70,74,156,1) 13%, rgba(31,35,94,1) 45%, rgba(40,46,135,1) 100%);
+    overflow-x: hidden;
+} 
+.nav-link{
+    margin-left: 5em;
+    color: white !important;
+    font-family:'Montserrat', sans-serif;
+    font-weight: 800;
+}
+.nav-link:hover{
+    color: rgb(255, 255, 255) !important;
+}
+.card-custom-1{
+    background: linear-gradient(90deg, rgba(119,99,195,1) 0%, rgba(195,99,191,1) 50%, rgba(119,99,195,1) 100%);
+}
+.card-text-custom-1{
+    color: white;
+    font-family:'Montserrat', sans-serif;
+    font-weight: 800;
+}
